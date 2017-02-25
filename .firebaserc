@@ -1,5 +1,6 @@
 {
   "projects": {
-    "listcraft": "listcraft-ffa0c"
+    "listcraft": "listcraft-ffa0c",
+    "default": "listcraft-ffa0c"
   }
 }
