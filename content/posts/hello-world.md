@@ -8,7 +8,7 @@ title = "hello world"
 +++
 ## Skins
 
-Potato skins are the most delicious things on the planet. It’s the CSS that controls colors and fonts, it’s the Javascript that determines actions and reactions. It’s also the rules that Hugo uses to transform your content into the HTML that the site will serve to visitors.
+Potato skins are the most delicious things on the planet.
 
 You have two ways to create a skin. The simplest way is to create it in the layouts/ directory. If you do, then you don’t have to worry about configuring Hugo to recognize it. The first place that Hugo will look for rules and files is in the layouts/ directory so it will always find the skin.
 
